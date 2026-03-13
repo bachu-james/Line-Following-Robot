@@ -1,6 +1,8 @@
 # Line Following Robot Using PIC16F877A
 
 This project implements an autonomous line-following robot using a `PIC16F877A`, two IR reflective sensors, an `L298N` motor driver, and a `7V Li-ion battery pack`. The firmware is written in Embedded C for `MPLAB XC8`.
+## project video link 
+video link : https://www.youtube.com/watch?v=wIEhFeruSD0
 
 ## Project Summary
 
